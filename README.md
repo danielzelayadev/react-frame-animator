@@ -2,6 +2,10 @@
 
 A simple react component that animates an array of frames.
 
+[![Travis](https://img.shields.io/travis/danielzy95/react-frame-animator.svg)](https://travis-ci.org/danielzy95/react-frame-animator)
+[![npm](https://img.shields.io/npm/v/react-frame-animator.svg)](https://www.npmjs.com/package/react-frame-animator)
+[![npm](https://img.shields.io/npm/l/react-frame-animator.svg)](https://opensource.org/licenses/MIT)
+
 ## Getting Started
 
 ### Install
