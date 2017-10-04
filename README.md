@@ -50,6 +50,26 @@ import FrameAnimator from 'react-frame-animator';
 import { playModes } from 'react-frame-animator';
 ```
 
+## Development
+
+Install Dependencies:
+
+```
+yarn install
+```
+
+Run the Demo:
+
+```
+yarn run demo
+```
+
+Build:
+
+```
+yarn run build
+```
+
 ## License
 
 This project is licensed under the MIT License -  see the [LICENSE](https://github.com/danielzy95/react-frame-animator/blob/master/LICENSE) for details.
