@@ -27,7 +27,7 @@ import FrameAnimator from 'react-frame-animator';
 ### Props
 
 | Name | Description | Type | Values |
-| ---- | :---------:| :---:| ------:|
+|----| ---------| ---| ------|
 | frames * | List of frames to be animated. This can be a url, file path, or image data. | String Array | [ "img/walk_up1.png", "img/walk_up2.png" ] |
 | speed * | The speed in milliseconds of the animation. | Number | 500, 30, 1000 |
 | playMode | The mode in which the animation will play. | Number | playModes.NORMAL **(Default)**, playModes.LOOP, playModes.REVERSE, playModes.LOOP_REVERSE |
