@@ -2,18 +2,28 @@
   "name": "react-frame-animator",
   "version": "1.0.0",
   "main": "./src/index.js",
+  "description": "A simple frame animator component for React.",
   "author": "Daniel Zelaya",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack",
-    "clean": "rm -f build/*"
+    "clean": "rm -f dist/*"
   },
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielzy95/react-frame-animator"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "animation"
+  ],
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
