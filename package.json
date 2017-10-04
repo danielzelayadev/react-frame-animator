@@ -19,6 +19,9 @@
     "type": "git",
     "url": "https://github.com/danielzy95/react-frame-animator"
   },
+  "bugs": {
+    "url": "https://github.com/danielzy95/react-frame-animator/issues"
+  },
   "keywords": [
     "react",
     "react-component",
