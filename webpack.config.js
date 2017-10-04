@@ -1,13 +1,11 @@
 const webpack = require('webpack');
 const path    = require('path');
 
-const { main: entry } = require('./package.json');
-
 const conf = {
-  entry,
+  entry: path.resolve(__dirname, 'src/index.js'),
   output: {
-    path: path.resolve(__dirname, 'build'),
-    filename: 'bundle.js'
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'index.js'
   },
   devtool: 'source-map',
   devServer: {
