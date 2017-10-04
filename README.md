@@ -6,8 +6,16 @@ A simple react component that animates an array of frames.
 
 ### Install
 
+Using yarn:
+
 ```
 yarn add react-frame-animator
+```
+
+Using npm:
+
+```
+npm i -S react-frame-animator
 ```
 
 ## Usage
